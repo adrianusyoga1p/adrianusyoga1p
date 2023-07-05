@@ -1,6 +1,6 @@
-Hi, I'm Adrianus Yoga Prasetyo
-I'm a Frontend Web Developer
-I'm 22 y.o
+Hi, I'm Adrianus Yoga Prasetyo.
+I'm a Frontend Web Developer.
+I'm 22 y.o.
 I expert to using ->
 - HTML
 - CSS (Bootstrap, Tailwindcss)
