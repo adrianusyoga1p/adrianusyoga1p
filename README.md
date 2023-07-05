@@ -1,4 +1,11 @@
-### Hi there 👋
+Hi, I'm Adrianus Yoga Prasetyo
+I'm a Frontend Web Developer
+I'm 22 y.o
+I expert to using ->
+- HTML
+- CSS (Bootstrap, Tailwindcss)
+- Javascript (ReactJS, Jquery)
+
 
 <!--
 **adrianusyoga1p/adrianusyoga1p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
